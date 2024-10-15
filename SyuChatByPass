@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImMeAndYouAreYou/SyuByPass/refs/heads/main/SyuChatByPass", true))()
 if not game:IsLoaded() then
     game.Loaded:wait()
 end
